@@ -1,0 +1,6 @@
+{
+  "name": "ZodiChat — Connect Beyond the Stars",
+  "description": "Aplikasi sosial dan komunikasi berbasis astrologi modern. Temukan teman sefrekuensi, cocok zodiak, ruang komunitas, dan obrolan kosmik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
